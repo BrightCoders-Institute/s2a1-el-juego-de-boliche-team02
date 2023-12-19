@@ -1,0 +1,23 @@
+{
+  "name": "s2a1-el-juego-de-boliche-team02",
+  "version": "1.0.0",
+  "description": "El juego de boliche",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrightCoders-Institute/s2a1-el-juego-de-boliche-team02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrightCoders-Institute/s2a1-el-juego-de-boliche-team02/issues"
+  },
+  "homepage": "https://github.com/BrightCoders-Institute/s2a1-el-juego-de-boliche-team02#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
