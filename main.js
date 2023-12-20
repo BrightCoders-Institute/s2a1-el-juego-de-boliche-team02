@@ -131,3 +131,5 @@ class Juego {
 const juego = new Juego(); // We create a new game object
 juego.initGame();
 juego.mostrarResultados();
+
+module.exports = {Juego};
